@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-challenge-order-summary-card/static/css/main.114926ad.chunk.css",
+    "main.js": "/frontend-mentor-challenge-order-summary-card/static/js/main.6a64b873.chunk.js",
+    "main.js.map": "/frontend-mentor-challenge-order-summary-card/static/js/main.6a64b873.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-challenge-order-summary-card/static/js/runtime-main.8b222360.js",
+    "runtime-main.js.map": "/frontend-mentor-challenge-order-summary-card/static/js/runtime-main.8b222360.js.map",
+    "static/js/2.6fff0d9c.chunk.js": "/frontend-mentor-challenge-order-summary-card/static/js/2.6fff0d9c.chunk.js",
+    "static/js/2.6fff0d9c.chunk.js.map": "/frontend-mentor-challenge-order-summary-card/static/js/2.6fff0d9c.chunk.js.map",
+    "index.html": "/frontend-mentor-challenge-order-summary-card/index.html",
+    "static/css/main.114926ad.chunk.css.map": "/frontend-mentor-challenge-order-summary-card/static/css/main.114926ad.chunk.css.map",
+    "static/js/2.6fff0d9c.chunk.js.LICENSE.txt": "/frontend-mentor-challenge-order-summary-card/static/js/2.6fff0d9c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontend-mentor-challenge-order-summary-card/static/media/RedHatDisplay-VariableFont_wght.b61d4966.ttf",
+    "static/media/App.css": "/frontend-mentor-challenge-order-summary-card/static/media/pattern-background-desktop.b5f47de4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b222360.js",
+    "static/js/2.6fff0d9c.chunk.js",
+    "static/css/main.114926ad.chunk.css",
+    "static/js/main.6a64b873.chunk.js"
+  ]
+}
