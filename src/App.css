@@ -58,6 +58,7 @@ button {
   border-radius: .5rem;
   border: 0;
   font-weight: 700;
+  cursor: pointer;
 }
 
 .proceed {
@@ -66,9 +67,17 @@ button {
   box-shadow: 0 1.5rem 0.2rem hsl(225deg 100% 98%);
 }
 
+.proceed:hover {
+  background-color: blueviolet;
+}
+
 .cancel {
   background-color: transparent;
   color: hsl(224, 23%, 55%);
+}
+
+.cancel:hover {
+  color: hsl(223, 47%, 23%);
 }
 
 .plan-details {
@@ -89,6 +98,10 @@ button {
 .plan-price {
   color: hsl(224, 23%, 55%);
   font-size: .75rem;
+}
+
+.change-link:hover {
+  text-decoration-line: none;
 }
 
 .plan-info {
