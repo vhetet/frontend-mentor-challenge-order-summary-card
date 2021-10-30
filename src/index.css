@@ -1,8 +1,14 @@
 body {
   margin: 0;
   display: flex;
+  font-family: RedHatDisplay;
 }
 
 h1 {
   margin: 0;
+}
+
+@font-face {
+  font-family: 'RedHatDisplay';
+  src: local('RedHatDisplay'), url(./assets/fonts/RedHatDisplay-VariableFont_wght.ttf) format('truetype');
 }
