@@ -12,7 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Available Scripts](#available-scripts)
@@ -36,8 +35,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repo](https://github.com/vhetet/frontend-mentor-challenge-order-summary-card)
+- Live Site URL: [live demo](https://vhetet.github.io/frontend-mentor-challenge-order-summary-card/)
 
 ## My process
 
@@ -50,14 +49,10 @@ Mobile
 
 ### What I learned
 
-I had never seen HSL colors before, beside that not much.
-I was just trying to get familiarize with the frontend mentor challenges
+* How to us GitHub pages
+* HSL colors
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Beside that not much, I was just trying to get familiarize with the frontend mentor challenges.
 
 ### Useful resources
 
@@ -86,4 +81,8 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run deploy`
+
+Use gh-pages to deploy the app to the github page
 
